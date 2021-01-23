@@ -1,0 +1,7 @@
+addInterval KEYWORD1
+setTemperature  KEYWORD1
+getTemperature  KEYWORD1
+changeTemperature   KEYWORD1
+timeLeft    KEYWORD1
+name    KEYWORD2
+totalTime   KEYWORD2
